@@ -1,0 +1,14 @@
+Package: acluster
+Type: Package
+Title: Approximate Hierarchical Clustering
+Version: 0.1.0
+Author: Bradley Broom
+Maintainer: Bradley Broom <bmbroom@gmail.com>
+Description: Performs approxiate hierarchical clustering on the rows of a
+    potentially large matrix.  Approximation is used to reduce running time.
+License: GPL (>=3)
+Imports: methods, Rclusterpp
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Roxygen: list (markdown = TRUE)
